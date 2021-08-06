@@ -4,5 +4,6 @@ Rencana Konten DeinonyCode
     buat tutorial dasar dari tipe data,dll
     buat game 
     # belajar framework python
+    # program kasir
 - C++ 
 - Program python
