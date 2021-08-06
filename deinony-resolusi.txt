@@ -1,0 +1,4 @@
+Deinony Resolusi
+- konsisten buat konten education python
+- membuat platform untuk pengelolaan video
+- membuat forum diskusi
