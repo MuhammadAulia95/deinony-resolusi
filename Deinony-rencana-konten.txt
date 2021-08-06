@@ -3,5 +3,6 @@ Rencana Konten DeinonyCode
 - Python 
     buat tutorial dasar dari tipe data,dll
     buat game 
+    # belajar framework python
 - C++ 
 - Program python
