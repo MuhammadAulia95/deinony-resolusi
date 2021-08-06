@@ -1,5 +1,6 @@
 Rencana Konten DeinonyCode
 
 - Python 
+    buat tutorial dasar dari tipe data,dll
 - C++ 
 - Program python
