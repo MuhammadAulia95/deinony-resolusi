@@ -1,0 +1,5 @@
+Rencana Konten DeinonyCode
+
+- Python 
+- C++ 
+- Program python
