@@ -3,7 +3,7 @@ Rencana Konten DeinonyCode
 - Python 
     buat tutorial dasar dari tipe data,dll
     buat game 
-    # belajar framework python
-    # program kasir
+    # Angular
+    # React
 - C++ 
-- Program python
+- laravel
