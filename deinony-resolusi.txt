@@ -6,3 +6,5 @@ Start Channel DeinonyCode :
 - proses
 - upload 
 - selesai...
+
+- habis belajar fork
